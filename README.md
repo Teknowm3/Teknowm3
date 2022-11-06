@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Teknowm3
 - 👀 I’m interested in code learning
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java,C
 
 <!---
 Teknowm3/Teknowm3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
